@@ -14,7 +14,7 @@ def welcome_assignment_answers(question):
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         answer = "hey test2"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
-        answer = "The student should type the answer here"
+        answer = "hey test3"
     elif question == "What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code":
         answer = "The student should type the answer here"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
